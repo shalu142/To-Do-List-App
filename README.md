@@ -23,3 +23,10 @@ java --enable-native-access=javafx.graphics --enable-preview --module-path "path
 
 Author
 Shalu Baloda – Intern @ Vault of Codes
+
+Output:
+
+![Image](https://github.com/user-attachments/assets/d2c02da4-2cd9-4b30-a5d3-8c154648e681)
+![Image](https://github.com/user-attachments/assets/db8f9c82-90fd-4d86-9065-7ccd61d0995c)
+![Image](https://github.com/user-attachments/assets/cdb7161a-a60f-4639-b137-5ae1802bb158)
+![Image](https://github.com/user-attachments/assets/3df1d3e1-5889-4bdf-bc80-bbb6a770569e)
