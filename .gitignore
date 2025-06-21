@@ -1,0 +1,25 @@
+Ignore compiled class files
+*.class
+
+VS Code config (optional)
+.vscode/
+
+Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+Build folders
+bin/
+build/
+out/
+
+Task data file (optional)
+tasks.txt
+
+### 3. ✅ Final GitHub Repository Structure
+
+ToDoList-JavaFX/
+├── Main.java
+├── Task.java
+├── README.md ✅ Explains the project
+├── .gitignore ✅ Keeps repo clean
